@@ -1,0 +1,8 @@
+Assignment
+------------------------------------------------------------------------------------------------------------------------------
+-create a client server application contain two clients connected on the server at port 3324.
+-server must generate a random number between 1 and 10 
+-each client will try to guess this number (entered by scanner) in the client side and send to the server.
+-they have 5 tries to guess it.
+-first one will guess this number will be a winner. server must send a message for each client to tell them who is the winner and the loser.
+
